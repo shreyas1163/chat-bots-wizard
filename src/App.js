@@ -1,5 +1,4 @@
 import ChatBotComponent from './components/ChatBotComponent';
-import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
   return (
